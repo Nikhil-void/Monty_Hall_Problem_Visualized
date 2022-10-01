@@ -15,7 +15,7 @@ It allows the user to play the game and also run simulated games multiple times 
 
 
 Game
-![Game](https://github.com/Nikhil-void/Monty_Hall_Problem_Visualized/blob/main/Bar_Graph.png)
+![Game](https://github.com/Nikhil-void/Monty_Hall_Problem_Visualized/blob/main/game.png)
 
 Visualization
 ![Graphs](https://github.com/Nikhil-void/Monty_Hall_Problem_Visualized/blob/main/Bar_Graph.png)
